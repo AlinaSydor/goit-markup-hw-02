@@ -30,7 +30,7 @@ ol,li {list-style: none;}
         letter-spacing: 0.02em;
         text-align: left;}
 
-.header-item :hover {color:#404BBF},
+.header-item :hover {color:#404BBF}
 .header-item :focus {color:#404BBF;}
 
 .header-adress {font-style: normal;}
@@ -42,7 +42,7 @@ ol,li {list-style: none;}
         letter-spacing: 0.02em;
         text-align: left;
 }
-.header-adress-item :hover {color:#404BBF},
+.header-adress-item :hover {color:#404BBF}
 .header-adress-item :focus {
     color: #404BBF;
 }
@@ -71,7 +71,7 @@ ol,li {list-style: none;}
         cursor: pointer;
 }
 
-.order-service-button :hover {background-color: #404BBF;},
+.order-service-button :hover {background-color: #404BBF;}
 .order-service-button :focus {background-color:#404BBF
 }
 
