@@ -71,8 +71,8 @@ ol,li {list-style: none;}
         cursor: pointer;
 }
 
-.order-service-button :hover {background-color: #404BBF;}
-.order-service-button :focus {background-color:#404BBF
+.order-service-button:hover {background-color: #404BBF;}
+.order-service-button:focus {background-color:#404BBF
 }
 
 .main-section-two {}
