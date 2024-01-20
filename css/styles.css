@@ -30,8 +30,8 @@ ol,li {list-style: none;}
         letter-spacing: 0.02em;
         text-align: left;}
 
-.header-item :hover {color:#404BBF}
-.header-item :focus {color:#404BBF;}
+.header-item:hover {color:#404BBF}
+.header-item:focus {color:#404BBF;}
 
 .header-adress {font-style: normal;}
 .header-adress-item {
@@ -42,8 +42,8 @@ ol,li {list-style: none;}
         letter-spacing: 0.02em;
         text-align: left;
 }
-.header-adress-item :hover {color:#404BBF}
-.header-adress-item :focus {
+.header-adress-item:hover {color:#404BBF}
+.header-adress-item:focus {
     color: #404BBF;
 }
 
