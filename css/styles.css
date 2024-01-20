@@ -30,11 +30,8 @@ ol,li {list-style: none;}
         letter-spacing: 0.02em;
         text-align: left;}
 
-.header-item :hover,
+.header-item :hover {color:#404BBF},
 .header-item :focus {color:#404BBF;}
-
-.header-item :active,
-.header-item :focus {color:#404bbf}
 
 .header-adress {font-style: normal;}
 .header-adress-item {
@@ -45,12 +42,10 @@ ol,li {list-style: none;}
         letter-spacing: 0.02em;
         text-align: left;
 }
-.header-adress-item :hover,
+.header-adress-item :hover {color:#404BBF},
 .header-adress-item :focus {
     color: #404BBF;
 }
-.header-adress-item :active,
-.header-adress-item :focus {color:#404BBF}
 
 .main {}
 
@@ -76,11 +71,9 @@ ol,li {list-style: none;}
         cursor: pointer;
 }
 
-.order-service-button :hover,
+.order-service-button :hover {background-color: #404BBF;},
 .order-service-button :focus {background-color:#404BBF
 }
-.order-service-button :active,
-.order-service-button :focus{background-color: #404BBF}
 
 .main-section-two {}
 
