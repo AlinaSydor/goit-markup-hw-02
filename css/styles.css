@@ -60,21 +60,20 @@ ol,li {list-style: none;}
         text-align: center;
 }
 
-.order-service-button {color:#4D5AE5;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;}
-
-.order-service-button :hover,
-.order-service-button :focus {color:#404BBF}
-
-.order-service {
-    color: white;
-        font-size: 16px;
+.order-service-button { background-color:#4D5AE5;
+     font-size: 16px;
         font-weight: 500;
         line-height: 1.50;
         letter-spacing: 0.04em;
         text-align: left;
+}
+
+.order-service-button :hover,
+.order-service-button :focus {background-color;:#404BBF}
+
+.order-service {
+    color: #ffffff;
+    cursor: pointer;
 }
 
 .main-section-two {}
@@ -101,7 +100,8 @@ ol,li {list-style: none;}
         text-align: left;
 }
 
-.main-section-three {background-color: #F4F4FD;;}
+.main-section-three {background-color: #F4F4FD;
+text-transform: capitalize}
 
 .section-three-subtitle {
     color: #2E2F42;
